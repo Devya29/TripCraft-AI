@@ -14,6 +14,16 @@ AI-powered travel planner built using Streamlit and Gemini API.
 - Gemini API
 - ReportLab
 
+## 📸 Screenshots
+
+### 🏠 Home Screen
+![Home](assets/home.png)
+
+### 📅 Generated Itinerary
+![Itinerary](assets/itinerary.png)
+
+### 🎨 Card UI
+![Cards](assets/cards.png)
 ## 🛠 Run locally
 ```bash
 pip install -r requirements.txt
